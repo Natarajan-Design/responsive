@@ -1,6 +1,6 @@
 export default {
-  name: "Figma Plugin React",
-  id: "0000000000000000000",
+  name: "Responsive Design ",
+  id: "1469620602426209318",
   api: "1.0.0",
   editorType: ["figma", "figjam"],
   main: "./canvas.js",
